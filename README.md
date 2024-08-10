@@ -9,8 +9,3 @@
 <br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedategunduz&show_icons=true&locale=en&layout=compact" alt="vedategunduz" /></p>
-
-<img src="https://raw.githubusercontent.com/vedategunduz/vedategunduz/output/snake.svg" alt="Snake animation" />
-
-
-###
